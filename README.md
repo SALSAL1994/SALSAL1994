@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SALSAL1994
-- 👀 I’m interested in Transport modelling 
-- 🌱 I’m currently learning HTML, Angular,Java script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Transport modeling 
+- 🌱 Highly motivated and detail-oriented transportation engineer who has a broad interest in many transportation questions focusing on Sustainable Mobility and Route Optimization in logistics also an energetic junior developer committed to staying up-to-date with the latest web development technologies and trends
+
 
 <!---
 SALSAL1994/SALSAL1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
